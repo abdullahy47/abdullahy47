@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm currently taking a course about AWS and DevOps
+I'm currently taking a course for AWS and DevOps
 
 
 ## 🌐 Socials:
